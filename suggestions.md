@@ -1,0 +1,5 @@
+- [ ] Change *m.tech* to masters
+- [ ] squash directi experience
+- [ ] reduce it to one page, if required remove the course and product section
+- [ ] just say the last title you had on first line, no need for all other titles
+- [ ] opening line of cover letter or summary could begin with: *8+ years of professional experience and a masters degree in computer science*
